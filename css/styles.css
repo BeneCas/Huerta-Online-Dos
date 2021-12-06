@@ -48,7 +48,9 @@ h2{
 h3{
   overflow: hidden
 }
-
+h4{
+  overflow: hidden
+}
 p{
   overflow: hidden
 }
