@@ -39,11 +39,19 @@ body {
   margin: 0px;
   text-align: center;
 }
+h1{
+overflow: hidden;
+}
+h2{
+  overflow: hidden;
+}
 
 .contenido-textos h3 {
   color: green;
   text-align: center;
+  overflow-y: hidden;
 }
+
 
 .contenido-textos {
   background-color: white;
