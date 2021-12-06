@@ -45,6 +45,13 @@ overflow: hidden;
 h2{
   overflow: hidden;
 }
+h3{
+  overflow: hidden
+}
+
+p{
+  overflow: hidden
+}
 
 .contenido-textos h3 {
   color: green;
